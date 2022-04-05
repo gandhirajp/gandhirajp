@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://agitated-leakey-feb91b.netlify.app](https://agitated-leakey-feb91b.netlify.app)
+- 👨‍💻 All of my projects are available at [https://gandhirajp.netlify.app/](https://gandhirajp.netlify.app/)
 
 - 📫 How to reach me **gandhiraj007p@gmail.com**
 
